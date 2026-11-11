@@ -1,0 +1,13 @@
+﻿{
+  "plugins": [
+    {
+      "id": "ExamplePlugin",
+      "name": "Example Plugin",
+      "version": "1.0.0",
+      "author": "KyroDoesCode",
+      "description": "My first Junkie Client repository plugin.",
+      "downloadUrl": "https://raw.githubusercontent.com/KyroDoesCode/junkie-repo/main/ExamplePlugin.junkieplugin",
+      "sha256": "E525FDC08BD065A9ED2597DAF0EA25EB2368CBE55EC73AF96AE833FAF49D3382"
+    }
+  ]
+}
